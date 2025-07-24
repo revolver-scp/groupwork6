@@ -1,3 +1,4 @@
+
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: ["./*.{html,js}","./src/**/*.{html,js}"],
@@ -17,7 +18,7 @@ module.exports = {
         'red ': '#fff000s1'
       }
     },
-    screens: {
+      screens: {
 
       'mi': '510px',
       //@media (min-width:510px)

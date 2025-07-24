@@ -1,0 +1,9 @@
+<svg width="97" height="96" viewBox="0 0 97 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="14.1367" y="13.9883" width="68.0234" height="68.0234" rx="9.47488" fill="#E4EAEE"/>
+<rect x="70.8867" y="43.6914" width="18.437" height="18.4356" rx="4.7879" transform="rotate(-180 70.8867 43.6914)" stroke="#00AF66" stroke-width="3.48515"/>
+<rect x="43.8477" y="43.6914" width="18.437" height="18.4356" rx="4.7879" transform="rotate(-180 43.8477 43.6914)" stroke="#00AF66" stroke-width="3.48515"/>
+<rect x="43.8477" y="70.7383" width="18.437" height="18.4356" rx="4.7879" transform="rotate(-180 43.8477 70.7383)" stroke="#00AF66" stroke-width="3.48515"/>
+<path d="M70.4242 53.4824V66.8557C70.4242 68.1739 70.4242 68.833 70.1717 69.3382C69.94 69.802 69.564 70.1779 69.1003 70.4097C68.595 70.6621 67.936 70.6621 66.6178 70.6621H53.3906" stroke="#48587D" stroke-width="3.48515" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M58.2659 53.4824H53.3906V58.3995H58.2659V53.4824Z" stroke="#48587D" stroke-width="3.48515" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M68.5599 60.5996H60.2891V68.9414H68.5599V60.5996Z" stroke="#48587D" stroke-width="3.48515" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
